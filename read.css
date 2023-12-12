@@ -1,0 +1,23 @@
+body{
+    background-clip: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    padding: auto;
+}
+.container{    
+width: 80%;
+margin: auto;
+overflow: hidden;
+}
+header{
+    background-image: url(kali.png);
+    color: #ffffff;
+    padding-top: 30px;
+    min-height: 40px;
+    border-bottom: #e8491d 3px solid;
+}
+header a{
+    background-color: blue;
+    color: #ffffff;
+    min-height: 70px;
+    border-bottom: #e8491d 3px solid;
+}

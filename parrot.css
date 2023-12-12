@@ -1,0 +1,18 @@
+body{
+    font: optional;
+    background-image:url();
+    }
+#showcase{
+    min-height:150px;
+    background-image: url(mat.png);
+    text-align:right;
+    color: #ffffff;
+}
+.boxes{
+    min-height: 200px;
+    background-color:forestgreen;
+}
+#footer{
+    background-color: blue;
+    min-height: auto;
+}
